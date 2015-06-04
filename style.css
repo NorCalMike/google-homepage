@@ -1,0 +1,41 @@
+li {
+	display: inline;
+}
+/*
+nav {
+	float:	right;
+
+}
+*/
+#logosearch {
+	margin-left: auto;
+
+}
+.searchForm {
+	margin-left: 30%
+}
+
+input {
+	padding-bottom: 2px;
+	padding-top: 3px;
+}
+#logo {
+
+	padding-top: 112px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.searchbtn {
+	background-color: #f5f5f5;
+	border: 1px solid rgba(0,0,0,0.1);
+	border-radius: 2px;
+	font-family: arial, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	margin: 11px, 8px;
+	padding: 0 8px;
+	text-align: center;
+	margin: 11px 8px 11px 8px;
+
+	height: 29px;
+}
